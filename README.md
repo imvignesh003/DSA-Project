@@ -26,6 +26,14 @@ Further Exploration
 Refer to the code comments for detailed explanations.
 Explore the provided references for in-depth understanding of pathfinding algorithms and game development with AI.
 
+### Implementation
+![image](https://github.com/imvignesh003/DSA-Project/assets/111968851/9cba8bca-fdfe-4722-9ea2-42203992bcf9)
+
+
+### OUTPUT
+![image](https://github.com/imvignesh003/DSA-Project/assets/111968851/f607492c-136d-432b-b013-a38bd8005924)
+
+
 ### References
 Amit's A* Pages
 "Artificial Intelligence for Games" by Ian Millington and John Funge
